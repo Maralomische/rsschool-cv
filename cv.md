@@ -7,7 +7,7 @@
 #Skills Adobe
 
 #Code example
-
+<code>
 Hello, World!
 </code>
 
