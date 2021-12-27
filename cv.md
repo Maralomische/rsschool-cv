@@ -16,5 +16,3 @@ Hello, World!
 #Education null
 
 #English Pre-intermediate (A2)
-
-Сложно пока…
