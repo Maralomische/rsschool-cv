@@ -1,2 +1,2 @@
-# rsschool-cv
-https://Maralomische.github.io/rsschool-cv/
+https://maralomische.github.io/rsschool-cv/cv
+https://maralomische.github.io/rsschool-cv/
